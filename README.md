@@ -1,37 +1,93 @@
-# Hi there, I'm Akshay Vadsara 👋
+# Akshay Vadsara
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-vadsara)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshay_90312)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vadsara_akshay)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/akshay-vadsara)
+### Partner @ 7Span · Full-Stack Architect · Tech Leader · AI Enthusiast
 
----
+> Developer at heart. Leader by choice. Building products that scale — and teams that last.
 
-### About Me
-
-- Technical Consultant at **[@7span](https://github.com/7span)**, based in Ahmedabad, Gujarat, India
-- Building products with **Java, Spring Boot, React.js & AI**
-- Currently exploring **LLMs, Spring AI & Autonomous Agents**
-- I write about tech on [Medium](https://medium.com/@akshay_90312)
-- Ask me about **Java, Spring Boot, React.js, or AI integrations**
-- Reach me on [LinkedIn](https://linkedin.com/in/akshay-vadsara) or [Upwork](https://www.upwork.com/freelancers/akshay-vadsara)
+Based in Ahmedabad, Gujarat, India · [LinkedIn](https://linkedin.com/in/akshay-vadsara) · [Medium](https://medium.com/@akshay-7span) · [Upwork](https://upwork.com)
 
 ---
 
-### Tech Stack
+## The Journey
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I started as a full-stack developer — writing Java backends and React frontends, debugging late into the night, learning by shipping.
 
----
+Four years ago, I joined **7Span** as a developer. Today, I'm a **Partner**, leading a team of ~20 engineers across product delivery, system architecture, client management, and presales.
 
-### GitHub Stats
-
-[![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay-7span&show_icons=true&theme=default&hide_border=true)](https://github.com/akshay-7span)
+The transition taught me that great software isn't just about clean code — it's about understanding the *why* behind every decision, aligning teams, and building trust with clients who are betting real money on your work.
 
 ---
 
-*Thanks for visiting! Feel free to connect with me on [LinkedIn](https://linkedin.com/in/akshay-vadsara) or check out my work on [Upwork](https://www.upwork.com/freelancers/akshay-vadsara).* 🙌
+## What I Do at 7Span
+
+- 🏗️ **Architecture** — Designing scalable full-stack systems across Java, Spring Boot, React, Liferay & AWS
+- 👥 **Team Leadership** — Managing ~20 full-stack developers across multiple simultaneous product deliveries
+- 🤝 **Presales & Client Management** — Evaluating tenders, scoping complex projects, owning client relationships end-to-end
+- 📦 **Product Delivery** — Driving multi-portal, multi-team deliveries from kickoff to UAT
+- 🔍 **Tech Exploration** — Evaluating emerging tools (AI agents, LLMs, DevOps toolchains) for real-world adoption
+
+---
+
+## Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Liferay](https://img.shields.io/badge/Liferay-1572B6?style=flat&logo=liferay&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Emerging & AI
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+---
+
+## Domains I've Delivered In
+
+- 🏟️ **Event Security & Accreditation** — Badge & biometric access systems for large-scale events (AFC Cup, Saudi Arabia)
+- 🏦 **MSME & Fintech Portals** — Multi-role web + mobile platforms for agents and end-users
+- 🏛️ **Government & Enterprise** — Tender-based projects for government departments across India
+- 🔐 **Identity & Access** — RFID, biometric gate control, AI threat intelligence integration
+- 📋 **CMS & Portals** — Enterprise portal development on Liferay
+
+---
+
+## What I Write About
+
+On [Medium](https://medium.com/@akshay-7span), I write for developers, tech leads, and engineering managers who want to go deeper:
+
+- **AI Agents & Tool Calling** — How LLMs actually work in production systems
+- **Java & Spring Boot Architecture** — Patterns, pitfalls, and decisions that matter at scale
+- **DevOps in Practice** — AWS, CI/CD, secrets management — real problems, real fixes
+- **Tech Leadership** — What they don't teach you when you go from developer to manager
+- **Presales & Client Work** — How to scope, pitch, and deliver complex software projects
+
+---
+
+## Currently Exploring
+
+- 🤖 Agentic AI workflows — building autonomous agents with real-world tool integrations
+- ☁️ AWS infrastructure patterns — CodeArtifact, Secrets Manager, SQS FIFO at scale
+- 🧠 Spring AI — integrating LLMs natively into Java backends
+
+---
+
+## Let's Connect
+
+Building something ambitious in **Java, React, or AI**? Looking for a **technical partner** who's been on both sides of the table — as a developer and as a business owner?
+
+📬 [LinkedIn](https://linkedin.com/in/akshay-vadsara) · [Medium](https://medium.com/@akshay-7span) · [Upwork](https://upwork.com)
+
+---
+
+*"The best architecture is the one your team can understand, extend, and own."*
